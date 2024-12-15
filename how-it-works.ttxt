@@ -1,0 +1,4 @@
+How it Works
+The HTML defines the structure of the login page.
+The CSS styles the form to look clean and responsive.
+The JavaScript checks if the credentials match a preset value (admin and password123), showing success or an error message accordingly.
